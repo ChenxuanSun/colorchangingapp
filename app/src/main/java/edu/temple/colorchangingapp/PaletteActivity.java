@@ -24,7 +24,7 @@ GridView gridView;
 
         getSupportActionBar().setTitle(R.string.PaletteActivity);
 
-
+           
         Resources res = getResources();
         final String[] gridLabels = res.getStringArray(R.array.MyArray);
 
