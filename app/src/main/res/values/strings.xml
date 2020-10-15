@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Color Changing App</string>
+
+    <string name="PaletteActivity">PaletteActivity</string>
+    <string name="CanvasActivity">CanvasActivity</string>
+    <string name="labletext">Select a color below to launch the Canvas</string>
+
+    <string-array name="MyArray">
+        <item>RED</item>
+        <item>YELLOW</item>
+        <item>WHITE</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>LIGHTGREY</item>
+        <item>WHITE</item>
+        <item>BLACK</item>
+        <item>CYAN</item>
+        <item>GREEN</item>
+        <item>MAGENTA</item>
+        <item>RED</item>
+    </string-array>
+
+
+</resources>
